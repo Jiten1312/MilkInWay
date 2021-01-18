@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "864972646237",
+    "firebase_url": "https://milkapp-dbb8a.firebaseio.com",
+    "project_id": "milkapp-dbb8a",
+    "storage_bucket": "milkapp-dbb8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864972646237:android:dc7a77f7dc229066322ab4",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864972646237-85o5h7snmq8ie8pejult4kre8j78poq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC18wYcHJUZJ_y6fh3rVNAE2iWYHRhdJm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864972646237-85o5h7snmq8ie8pejult4kre8j78poq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
